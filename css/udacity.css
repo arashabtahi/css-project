@@ -1,0 +1,52 @@
+body{
+    width: auto;
+
+}
+
+.container{
+    width: 100%;
+    height: 321px;
+    background-color: blue;
+
+}
+
+li {
+    list-style: none;
+}
+
+.dog{
+    border-radius: 50px;
+    background-color: green;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.cat{
+    border-radius: 50px;
+    background-color: orange;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.fish{
+    border-radius: 50px;
+    background-color: yellow;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.infobox{
+
+    background-color: #DADAD8;
+    width:50%;
+    height: 130px;
+    margin-left: 25%;
+    text-align: center;
+}
+
+img{
+    margin: 5px 0 0 28%
+}
